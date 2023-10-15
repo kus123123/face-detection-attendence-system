@@ -1,5 +1,4 @@
-# face-recognition-based-attendance-system  
+this project is face attendence system . frontend is working fine .
 
-Do visit my blog for better explanations: https://machinelearningprojects.net/face-recognition-based-attendance-system/
-
-![Face Recognition Based Attendance System](ss.png)
+**issues**
+the face is not storing in database/static folder
